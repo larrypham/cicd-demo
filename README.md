@@ -12,3 +12,4 @@
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 
+[![cicd-demo](https://github.com/larrypham/cicd-demo/actions/workflows/cicd-workflows.yaml/badge.svg?branch=main)](https://github.com/larrypham/cicd-demo/actions/workflows/cicd-workflows.yaml)
